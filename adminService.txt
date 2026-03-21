@@ -1,1 +1,3 @@
 add and delete user from the service...
+change role
+manage data base
