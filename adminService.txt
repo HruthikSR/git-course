@@ -1,4 +1,4 @@
 add and delete user from the service...
 change role
-manage data base
+manage data base with oracle
 closing connection
